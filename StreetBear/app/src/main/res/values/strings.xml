@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StreetBear</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="signupText">Sign Up</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="emailHint">Email</string>
+    <string name="signUpButton">Sign Up</string>
+
+</resources>
